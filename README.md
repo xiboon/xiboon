@@ -14,4 +14,9 @@ A customized arch-based distribution which is making Arch Linux really small
 ## [Fluorine](https://github.com/Fluorinebot/fluorine)
 A discord bot
 
+# stuff i use
+os - arch linux
+de - gnome
+main programming language - typescript
+
 ![Metrics](/github-metrics.svg)
